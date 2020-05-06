@@ -1,3 +1,5 @@
+A basic ecommerce website built in react carrying features like product listing, adding products to cart, sorting of products by price.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
